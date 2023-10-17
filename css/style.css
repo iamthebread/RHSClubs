@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+div.bar {
+    background-color: rgb(18, 129, 196);
+    color: white;
+}
+
+div.autism {
+    border-color: black;
+    border-width: 5px;
+    border-radius: 10px;
+    border-style: solid;
+    text-align: center;
+    width: 40%;
+    height: auto;
+    margin: auto;
+}
+
+p1 {
+    text-align: center;
+}
+
+body {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+
+}
+
+div.seperator {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 10px;
+}
